@@ -270,7 +270,7 @@ const handleSubmit = async (e) => {
 >
   Pricing
 </a>
-<a
+{/* <a
   href="#testimonial"
   className={`
     relative
@@ -292,7 +292,7 @@ const handleSubmit = async (e) => {
   `}
 >
   Testimonials
-</a>
+</a> */}
 
         <a
   href="#contact"
@@ -1340,18 +1340,16 @@ const handleSubmit = async (e) => {
 </section>
 
 {/* TESTIMONIALS */}
-<section  id="testimonial"
+{/* <section  id="testimonial"
   className="relative scroll-mt-24 py-28 bg-[#050816] overflow-hidden"
 >
 
-  {/* BACKGROUND GLOW */}
   <div className="absolute top-0 left-0 w-[400px] h-[400px] bg-blue-600/10 blur-3xl rounded-full"></div>
 
   <div className="absolute bottom-0 right-0 w-[400px] h-[400px] bg-blue-500/10 blur-3xl rounded-full"></div>
 
   <div className="relative z-10 max-w-7xl mx-auto px-6 text-center">
 
-    {/* TITLE */}
     <p className="text-blue-400 font-semibold tracking-[4px] uppercase mb-4">
       Testimonials
     </p>
@@ -1365,7 +1363,6 @@ const handleSubmit = async (e) => {
       responsive, and conversion-focused websites.
     </p>
 
-    {/* TESTIMONIAL GRID */}
     <div className="
   grid
   grid-cols-1
@@ -1373,7 +1370,6 @@ const handleSubmit = async (e) => {
   gap-8
 ">
 
-      {/* TESTIMONIAL 1 */}
       <div
         className="
           group
@@ -1391,29 +1387,25 @@ const handleSubmit = async (e) => {
         "
       >
 
-        {/* STARS */}
         <div className="flex gap-1 text-yellow-400 text-xl mb-5">
           ★ ★ ★ ★ ★
         </div>
 
-        {/* REVIEW */}
         <p className="text-gray-300 leading-8 text-lg mb-8">
           “The website looks modern and professional. Customers can now
           easily view our menu and contact us online. The overall experience
           was smooth and well designed.”
         </p>
 
-        {/* PROFILE */}
         <div className="flex items-center gap-4">
 
-          {/* IMAGE */}
+          
           <img
             src="/images/man.avif"
             alt="Founder"
             className="w-14 h-14 rounded-full object-cover border border-white/10"
           />
 
-          {/* INFO */}
           <div>
 
             <h3 className="text-white font-semibold text-lg">
@@ -1430,7 +1422,7 @@ const handleSubmit = async (e) => {
 
       </div>
 
-      {/* TESTIMONIAL 2 */}
+     
       <div
         className="
           group
@@ -1448,29 +1440,27 @@ const handleSubmit = async (e) => {
         "
       >
 
-        {/* STARS */}
         <div className="flex gap-1 text-yellow-400 text-xl mb-5">
           ★ ★ ★ ★ ★
         </div>
 
-        {/* REVIEW */}
+        
         <p className="text-gray-300 leading-8 text-lg mb-8">
           “Loved the clean design and modern look of the website. It perfectly
           matches our cafe brand and gives customers a better first impression
           online.”
         </p>
 
-        {/* PROFILE */}
+        
         <div className="flex items-center gap-4">
 
-          {/* IMAGE */}
           <img
             src="/images/lamb.jpg"
             alt="Founder"
             className="w-14 h-14 rounded-full object-cover border border-white/10"
           />
 
-          {/* INFO */}
+      
           <div>
 
             <h3 className="text-white font-semibold text-lg">
@@ -1491,7 +1481,7 @@ const handleSubmit = async (e) => {
 
   </div>
 
-</section>
+</section> */}
       
 
       {/* CONTACT SECTION */}
