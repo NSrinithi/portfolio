@@ -1172,15 +1172,16 @@ const handleSubmit = async (e) => {
         </h2>
 
         <h3 className="text-5xl font-black text-blue-400 mb-8">
-          ₹1,999
+          ₹4,999
         </h3>
 
         <ul className="text-gray-400 space-y-4 mb-10 text-left">
 
           <li>✔ 1 Page Design</li>
           <li>✔ Mobile Responsive</li>
-          <li>✔ Fast Delivery</li>
-          <li>✔ Modern UI Design</li>
+          <li>✔ WhatsApp Integration</li>
+          <li>✔ Contact form</li>
+          <li>✔ 3 days Delivery</li>
 
         </ul>
 
@@ -1245,16 +1246,17 @@ const handleSubmit = async (e) => {
         </h2>
 
         <h3 className="text-5xl font-black text-white mb-8">
-          ₹4,999
+          ₹9,999
         </h3>
 
         <ul className="space-y-4 mb-10 text-left text-blue-100">
 
-          <li>✔ 3 Page Website</li>
+          <li>✔ 5 Page Website</li>
+          <li>✔ Premium Design</li>
           <li>✔ Contact Form</li>
           <li>✔ SEO Friendly</li>
-          <li>✔ Speed Optimized</li>
-          <li>✔ Premium UI Design</li>
+          <li>✔ WhatsApp & Call Integration</li>
+          <li>✔ Google Maps Integration</li>
 
         </ul>
 
@@ -1297,7 +1299,7 @@ const handleSubmit = async (e) => {
         </h2>
 
         <h3 className="text-5xl font-black text-blue-400 mb-8">
-          ₹8,999
+          ₹14,999+
         </h3>
 
         <ul className="text-gray-400 space-y-4 mb-10 text-left">
@@ -1306,6 +1308,8 @@ const handleSubmit = async (e) => {
           <li>✔ Custom Design</li>
           <li>✔ Priority Support</li>
           <li>✔ SEO Optimization</li>
+          <li>✔ Unlimited Sections</li>
+          <li>✔ Google Business Optimization</li>
 
         </ul>
 
